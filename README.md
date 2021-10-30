@@ -24,7 +24,7 @@ Note: Implementation of SE-block and PE-block is for 3D data
 
 ## Model Inference (on BRaTS dataset) 
 
-<img src="https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p1.png" width="50" height="50">
+<img src="https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p1.png" width="150" height="150">
 
 
 ![image 2](https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p2.png?raw=true)
