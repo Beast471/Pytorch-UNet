@@ -26,8 +26,8 @@ Note: Implementation of SE-block and PE-block is for 3D data
 
 <img src="https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p1.png" width="400" height="400">
 
+<img src="https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p2.png" width="400" height="400">
 
-![image 2](https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p2.png?raw=true)
-![image 3](https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p3.png?raw=true)
-![image 4](https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p4.png?raw=true)
+<img src="https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p3.png" width="400" height="400">
 
+<img src="https://github.com/Beast471/Pytorch-UNet/blob/master/asset/p4.png" width="400" height="400">
